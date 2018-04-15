@@ -1,5 +1,5 @@
 # loanCalculator
 Loan calculator. Vanilla JS.
 
-Preview:
+## Preview:
 # <img src="loanCalculator-Op.jpg" />
